@@ -27,7 +27,7 @@ cairo-felt = "0.8.2"
 cairo-lang-runner = {git = "https://github.com/StarkSharks/starklings-cairo1.git", tag = "v2.2.0"}
 cairo-lang-test-runner = {git = "https://github.com/StarkSharks/starklings-cairo1.git", tag = "v2.2.0"}
 cairo-lang-compiler = {git = "https://github.com/StarkSharks/starklings-cairo1.git", tag = "v2.2.0"}
-cairo-lang-casm = {git = "https://github.com/StarkSharks/starklings-cairo1.git", tag = "0.1.0"}
+cairo-lang-casm = {git = "https://github.com/StarkSharks/starklings-cairo1.git", tag = "v2.2.0"}
 cairo-lang-diagnostics = {git = "https://github.com/StarkSharks/starklings-cairo1.git", tag = "v2.2.0"}
 cairo-lang-debug = {git = "https://github.com/StarkSharks/starklings-cairo1.git", tag = "v2.2.0"}
 cairo-lang-defs = {git = "https://github.com/StarkSharks/starklings-cairo1.git", tag = "v2.2.0"}
