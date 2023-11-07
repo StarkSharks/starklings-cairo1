@@ -27,7 +27,6 @@ scarb = "2.3.0"
 # Cairo runner dependencies
 cairo-lang-test-runner = {git = "https://github.com/starkware-libs/cairo", tag = "v2.3.0"}
 cairo-lang-test-plugin = {git = "https://github.com/starkware-libs/cairo", tag = "v2.3.0"}
-scarb = { git = "https://github.com/software-mansion/scarb", version = "2.3.0" }
 scarb-ui = { git = "https://github.com/software-mansion/scarb", version = "0.1.0" }
 
 anyhow = "1.0.66"
